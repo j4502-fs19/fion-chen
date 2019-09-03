@@ -20,6 +20,34 @@ h3{
   font-family:Georgia, "Times New Roman", serif;
 }
 
+
+#nav{
+  padding: 0;
+  list-style-type: none;
+}
+
+#nav li{
+  margin:0;
+  padding:0;
+  border-bottom: 1px solid #ccc;
+}
+
+#nav a:link, a:visited{
+  display:block;
+  color:#ffffff;
+  background-color: #953eb5;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  padding: 4px;
+  font-family: Helvetica, Arial, serif;
+}
+
+#nav a:hover, a:active{
+  background-color: #58246b;
+}
+
+
 .caption{
   text-align: left;
   color:black;
