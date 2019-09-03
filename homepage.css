@@ -12,11 +12,23 @@ h1{
   font-family:Georgia, "Times New Roman", serif;
 }
 
+h2{
+  font-family:Georgia, "Times New Roman", serif;
+}
+
+h3{
+  font-family:Georgia, "Times New Roman", serif;
+}
+
 .caption{
-  text-align: right;
+  text-align: left;
   color:black;
   font-family:Georgia, "Times New Roman", serif;
   margin-top: 0;
   font-size: 0.8em;
   font-style: italic;
+}
+
+img{
+  border:none;
 }
