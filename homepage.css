@@ -1,11 +1,15 @@
 P{
   color:#454343;
-  font-family: Helvetica, Arial, serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 #container{
   width:95%;
   margin:0 auto;
+}
+
+body{
+  background-color: #ffcff9;
 }
 
 h1{
@@ -32,7 +36,7 @@ h3{
   border-bottom: 1px solid #ccc;
 }
 
-#nav a:link, a:visited{
+#nav a:link, #nav a:visited{
   display:block;
   color:#ffffff;
   background-color: #953eb5;
@@ -40,10 +44,10 @@ h3{
   text-align: center;
   text-decoration: none;
   padding: 4px;
-  font-family: Helvetica, Arial, serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
-#nav a:hover, a:active{
+#nav a:hover, #nav a:active{
   background-color: #58246b;
 }
 
@@ -55,6 +59,10 @@ h3{
   margin-top: 0;
   font-size: 0.8em;
   font-style: italic;
+}
+
+.pic{
+  margin-bottom: 0;
 }
 
 img{
