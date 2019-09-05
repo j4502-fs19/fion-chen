@@ -16,6 +16,13 @@ h1{
   font-family:'Acme', sans-serif;
 }
 
+#note{
+  font-family:'Roboto', sans-serif;
+  font-weight:700;
+  font-size:16pt;
+  color:black
+  }
+
 h2{
   font-family:Georgia, "Times New Roman", serif;
 }
