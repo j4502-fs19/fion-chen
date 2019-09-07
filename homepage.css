@@ -10,7 +10,7 @@ P{
 
 body{
   background-color: #ffcff9;
-}
+    }
 
 h1{
   font-family:'Bree Serif', serif;
@@ -78,6 +78,10 @@ a {
 
 img{
   border:none;
+}
+
+#joke li{
+  font-family:'Roboto', sans-serif;
 }
 
 #footer{
