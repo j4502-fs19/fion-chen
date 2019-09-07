@@ -82,4 +82,5 @@ img{
 #footer{
   font-family:Georgia, "Times New Roman", serif;
   font-size:0.8em;
+  border-top: 0.8px solid black;
 }
