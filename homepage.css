@@ -1,6 +1,6 @@
 P{
   color:#454343;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 #container{
@@ -14,22 +14,21 @@ body{
 
 h1{
   font-family:'Acme', sans-serif;
-}
+  margin-bottom: 0;
+  }
+
 
 #note{
   font-family:'Roboto', sans-serif;
   font-weight:700;
-  font-size:16pt;
-  color:black
-  }
+  font-size:14pt;
+  color:black;
+    }
 
-h2{
-  font-family:Georgia, "Times New Roman", serif;
+h2 {
+  font-family:'Lexend Deca', sans-serif;
 }
 
-h3{
-  font-family:Georgia, "Times New Roman", serif;
-}
 
 
 #nav{
