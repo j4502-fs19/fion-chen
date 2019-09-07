@@ -78,3 +78,8 @@ a {
 img{
   border:none;
 }
+
+#footer{
+  font-family:Georgia, "Times New Roman", serif;
+  font-size:0.8em;
+}
