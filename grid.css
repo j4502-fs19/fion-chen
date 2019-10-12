@@ -3,3 +3,8 @@
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap:10px;
 }
+
+.one{
+  grid-column: 1/2;
+  grid-row:1/3;
+}
