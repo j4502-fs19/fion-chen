@@ -6,33 +6,28 @@
 }
 
 .one{
-  width:100%;
   grid-column:1;
   grid-row:1;
   align-self: flex-end;
 }
 
 .two{
-  width:90%;
   grid-column: 1/3;
   grid-row:2/4;
 
 }
 
 .three{
-  width:100%;
   grid-column:1/2;
   grid-row:4/5;
 }
 
 .four{
-  width:100%;
   grid-column:2;
   grid-row:4/5;
 }
 
 .five{
-  width:70%;
   grid-column:1/3;
   grid-row:5;
   justify-self:flex-end;
