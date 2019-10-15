@@ -6,12 +6,14 @@
 }
 
 .one{
+  width:100%;
   grid-column:1;
   grid-row:1;
   align-self: flex-end;
 }
 
 .two{
+  width:80%;
   grid-column: 1/3;
   grid-row:2/4;
   justify-self:center;
