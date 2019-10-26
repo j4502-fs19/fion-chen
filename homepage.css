@@ -127,7 +127,6 @@ header h1{
   #nav{
     display:flex;
     flex-direction:row;
-    justify-content: center;
     order:2;
   }
 
@@ -141,8 +140,12 @@ header h1{
 
 }
 
-@media screen and (min-width: 1000px){
+@media screen and (min-width: 800px){
   p{
     max-width: 900px;
+  }
+
+  #nav{
+    margin-left: 50px;
   }
 }
