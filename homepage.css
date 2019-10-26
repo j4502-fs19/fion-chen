@@ -49,6 +49,12 @@ a {
   text-decoration: none;
 }
 
+#nav{
+  display:flex;
+  flex-direction: column;
+}
+
+
 #nav a:link, #nav a:visited{
   display:block;
   color:#ffffff;
@@ -104,6 +110,8 @@ header{
 
 header h1{
   order:2;
+  margin-top: 0;
+  margin-left: 10px;
 }
 
 #nav {
