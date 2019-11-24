@@ -141,9 +141,17 @@ header h1{
     order:1;
   }
 
+  p{
+    max-width: 900px;
+  }
+
+  #nav{
+    margin-left: 100px;
+  }
+
 }
 
-@media screen and (min-width: 800px){
+/* @media screen and (min-width: 800px){
   p{
     max-width: 900px;
   }
@@ -151,4 +159,4 @@ header h1{
   #nav{
     margin-left: 50px;
   }
-}
+} */
