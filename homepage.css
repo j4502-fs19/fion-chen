@@ -20,6 +20,16 @@ h1{
   }
 
 
+#note{
+  font-family:'Roboto', sans-serif;
+  font-weight:700;
+  font-size:12pt;
+  text-align: center;
+  color:black;
+  /* margin-top: 0; */
+  margin-left: 23px;
+    }
+
 h2 {
   font-family:'Lexend Deca', sans-serif;
 }
@@ -79,7 +89,7 @@ a {
 
 img{
   border:none;
-
+  
 }
 
 #joke li{
