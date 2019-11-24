@@ -72,15 +72,19 @@ a {
   background-color: #7B6841;
 }
 
+.job{
+  color: #4c492a;
+  font-weight: 600;
+}
 
-.caption{
+/* .caption{
   text-align: left;
   color:black;
   font-family:Georgia, "Times New Roman", serif;
   margin-top: 0;
   font-size: 0.8em;
   font-style: italic;
-}
+} */
 
 .pic{
   margin-bottom: 0;
