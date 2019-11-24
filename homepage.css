@@ -15,18 +15,10 @@ body{
 
 h1{
   font-family:'Bree Serif', serif;
+  font-size: 30pt;
   margin-bottom: 0;
   }
 
-
-#note{
-  font-family:'Roboto', sans-serif;
-  font-weight:700;
-  font-size:12pt;
-  color:black;
-  margin-top: 0;
-  margin-left: 23px;
-    }
 
 h2 {
   font-family:'Lexend Deca', sans-serif;
