@@ -10,7 +10,7 @@ P{
 }
 
 body{
-  background-color: #fff9bb;
+  background-color: #fffcdd;
       }
 
 h1{
@@ -24,7 +24,7 @@ h1{
   font-family:'Roboto', sans-serif;
   font-weight:700;
   font-size:12pt;
-  color:black;
+  color:#2e271d;
   /* margin-top: 0; */
   margin-left: 23px;
     }
@@ -60,7 +60,7 @@ a {
 #nav a:link, #nav a:visited{
   display:block;
   color:#ffffff;
-  background-color: #953eb5;
+  background-color: #0f0d09;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
@@ -69,7 +69,7 @@ a {
 }
 
 #nav a:hover, #nav a:active{
-  background-color: #58246b;
+  background-color: #7B6841;
 }
 
 
